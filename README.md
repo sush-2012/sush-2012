@@ -1,6 +1,6 @@
 ## Sushant Kumar
 
-[![linkedin](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/Webp.net-resizeimage.png)](https://www.linkedin.com/in/sushant-kumar1998)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![twitter](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/ttt.png)](https://twitter.com/Sushant_k2012)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![kaggle](https://github.com/arpit-dwivedi/arpit-dwivedi/blob/master/kaggle.png)](https://https://www.kaggle.com/sushantkumar2012)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/arpit-dwivedi/arpit-dwivedi/blob/master/m1.png)](https://mail.google.com/mail/u/0/#inbox)
+[![linkedin](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/Webp.net-resizeimage.png)](https://www.linkedin.com/in/sushant-kumar1998)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![twitter](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/ttt.png)](https://twitter.com/Sushant_k2012)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![kaggle](https://github.com/arpit-dwivedi/arpit-dwivedi/blob/master/kaggle.png)](https://www.kaggle.com/sushantkumar2012)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/arpit-dwivedi/arpit-dwivedi/blob/master/m1.png)](https://mail.google.com/mail/u/0/#inbox)
 
 ### Hi there 👋
 
@@ -34,3 +34,5 @@ I am Sushant Kumar. My main interest lies in **Machine Learning** and **Python**
 - 😄 Pronouns: You can give one :smile:
 
 - ⚡ Fun fact: I like playing Football and Table Tennis.
+
+- :speech_balloon: You can read my blog from Internshala [Here](https://blog.internshala.com/2020/05/internshala-training-review-how-i-built-apps-by-learning-web-development-python-thanks-to-internshala-trainings/)
