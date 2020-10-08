@@ -36,3 +36,6 @@ I am Sushant Kumar. My main interest lies in **Machine Learning** and **Python**
 - ⚡ Fun fact: I like playing Football and Table Tennis.
 
 - :speech_balloon: You can read my blog from Internshala [Here](https://blog.internshala.com/2020/05/internshala-training-review-how-i-built-apps-by-learning-web-development-python-thanks-to-internshala-trainings/)
+
+![Sushant's github stats](https://github-readme-stats.vercel.app/api?username=sush-2012&show_icons=true)    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sush-2012&layout=compact)](https://github.com/sush-2012/github-readme-stats)
