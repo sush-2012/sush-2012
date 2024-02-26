@@ -17,17 +17,19 @@ I am Sushant Kumar. My main interest lies in **.NET Core** and **C#**. I also ha
 - 😄 Pronouns: You can give one :smile:
 - ⚡ Fun fact: I like playing Football and Table Tennis.
 -->
-I am Sushant Kumar. My main interest lies in **Machine Learning** and **Python**. I am always curious to learn something new and implement them  
+## About Me
+Hi there! Welcome to my GitHub profile. I'm passionate about software development, particularly in the realm of .NET Core and C#. I also have a keen interest in front-end technologies, with a focus on React.js. I'm currently honing my skills in React and exploring its intricacies.
 
-- 🔭 I’m currently working on a Machine Learning Project
+## Interests
+- .NET Core
+- C#
+- React.js
+- Front-end Development
 
-- 🌱 I’m currently learning **BIG DATA** and **NLP**
+## Current Focus
+At the moment, I'm dedicating my time to learning and mastering React.js. I believe it's a powerful tool for building dynamic and interactive user interfaces, and I'm excited to delve deeper into its capabilities.
 
-- 👯 I’m looking to collaborate on any **Machine Learning Projects**.
 
-- 🤔 I’m looking for help with **OpenCV and NLP**
-
-- 💬 Ask me about Python 
 
 - 📫 How to reach me: You can directly mail me on my mail [sushant.singh8899@gmail.com](sushant.singh8899@gmail.com)
 
